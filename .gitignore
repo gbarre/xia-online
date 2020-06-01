@@ -1,0 +1,5 @@
+includes/sys.config.php
+
+cache/*
+compiled/*
+upload/files/*.svg
